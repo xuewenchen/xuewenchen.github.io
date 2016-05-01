@@ -11,26 +11,21 @@ title:            catAncle
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  A pretentious two-column [Jekyll](http://jekyllrb.com/) theme, stolen by [@qwtel](https://twitter.com/qwtel)
-  from [Hyde](http://hyde.getpoole.com).
-  You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
-
+    我的小窝。
 # The tags listed as entries in the sidebar
-sidebar_tags:     [jekyll, hyde]
+# sidebar_tags:     [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /hydejack/public/img/nap.jpg
+image:            http://xuewenchen.github.io/public/img/Amy.jpg
 color:            '#A85641'
 
 author:
-  name:           'catAncle'
-  twitter:        qwtel
-  github:         qwtel
-  photo:          http://qwtel.com/public/img/flo.jpg
+  name:           'chenxuewen'
+  twitter:        ''
+  github:         'https://github.com/xuewenchen'
+  photo:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Florian or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
+    Hi, 大家好，我是陈学文，一直喜欢晒太阳的猫~
 
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
