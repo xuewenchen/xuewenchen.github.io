@@ -6,9 +6,8 @@ url:              http://xuewenchen.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          http://xuewenchen.github.io
-# baseurl:           /
 
-title:            catAncle
+title:            CatAncle
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
@@ -21,7 +20,7 @@ image:            http://xuewenchen.github.io/public/img/Amy.png
 color:            '#A85641'
 
 author:
-  name:           'chenxuewen'
+  name:           '陈学文'
   twitter:        ''
   github:         'xuewenchen'
   photo:          
