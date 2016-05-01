@@ -16,13 +16,13 @@ description:      >
 # sidebar_tags:     [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:            http://xuewenchen.github.io/public/img/Amy.jpg
+image:            http://xuewenchen.github.io/public/img/Amy.png
 color:            '#A85641'
 
 author:
   name:           'chenxuewen'
   twitter:        ''
-  github:         'https://github.com/xuewenchen'
+  github:         'xuewenchen'
   photo:          
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
