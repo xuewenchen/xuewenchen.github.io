@@ -2,12 +2,12 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:              http://xuewenchen.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          /hydejack
+baseurl:          http://xuewenchen.github.io
 
-title:            Hydejack
+title:            catAncle
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
@@ -23,7 +23,7 @@ image:            /hydejack/public/img/nap.jpg
 color:            '#A85641'
 
 author:
-  name:           'Florian Klampfer'
+  name:           'catAncle'
   twitter:        qwtel
   github:         qwtel
   photo:          http://qwtel.com/public/img/flo.jpg
