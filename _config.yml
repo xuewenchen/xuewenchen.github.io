@@ -6,6 +6,7 @@ url:              http://xuewenchen.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:          http://xuewenchen.github.io
+# baseurl:           /
 
 title:            catAncle
 
@@ -27,5 +28,5 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, 大家好，我是陈学文，一直喜欢晒太阳的猫~
+    Hi, 大家好，我是陈学文，一只喜欢晒太阳的猫~
 
